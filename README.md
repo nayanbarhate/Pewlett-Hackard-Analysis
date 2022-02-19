@@ -17,8 +17,13 @@ The purpose of our project is to determine the number of retiring employees by t
 - The unique titles table that we created is showing the most recent title for employees of retirment age.
 
 - Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
+![retiring_titles](https://github.com/nayanbarhate/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 -  The final part of our project shows mentorship eligibility, if you look at the head of the new csv - you can see that most of these employees have senior titles.
+![mentorship](https://github.com/nayanbarhate/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+
+Note: This table only shows the first 10 rows. The full table is 1,940 rows.
+
 
 ## Pewlett Hackard Analysis Summary
 
